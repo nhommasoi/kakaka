@@ -13,7 +13,7 @@ EXNESS is a globally recognized forex and CFD broker regulated by multiple top-t
 ## **Step 1: Visit the Official EXNESS Website**
 
 To begin, go to the official EXNESS website at [https://www.exness.com](https://one.exnesstrack.org/a/11z0efcy7r). Click the **“Register”** button located in the top-right corner of the homepage.
-[exness open account](https://camo.githubusercontent.com/22954deede949acb0865ace572ae8dd9050556e2556a846b9517aa88c06c8dac/68747470733a2f2f64336470657431673074793565642e636c6f756466726f6e742e6e65742f454e5f5768656e5f32307468655f3230676f6c645f32306d61726b65745f323069735f32306d6f76696e675f383030783830305f5f474f4f474c452e706e67)
+[exness open account](https://d3dpet1g0ty5ed.cloudfront.net/EN_When_20the_20gold_20market_20is_20moving_800x800__GOOGLE.png)
 ---
 
 ## **Step 2: Fill Out the Registration Form**

@@ -8,7 +8,7 @@ Bài viết dưới đây sẽ giúp bạn hiểu rõ **Sàn Exness là gì**, *
 
 ## ⭐ Sàn Exness là gì?
 
-**Exness** là một sàn giao dịch trực tuyến cung cấp dịch vụ tài chính đa dạng, bao gồm:
+**[Exness](https://tinhte.vn/thread/san-exness-la-gi-ly-do-ban-nen-chon-exness-de-giao-dich-ngoai-hoi.3839427/)** là một sàn giao dịch trực tuyến cung cấp dịch vụ tài chính đa dạng, bao gồm:
 
 - Forex (ngoại hối)
 - Kim loại quý (Vàng, Bạc…)

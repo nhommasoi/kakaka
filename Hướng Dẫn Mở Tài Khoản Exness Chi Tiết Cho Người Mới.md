@@ -135,7 +135,7 @@ Sau khi xác minh, bạn có thể:
 - **Bảo mật tài khoản:** Bật **xác thực hai lớp (2FA)**.  
 - **Tìm hiểu phí giao dịch:** Bao gồm **spread** và **phí swap (qua đêm)**.  
 - **Dùng tài khoản demo:** Luyện tập giao dịch trước khi dùng tiền thật.
-
+Xem thêm: [Cách tạo tài khoản cent trên exness](https://voz.vn/t/cach-tao-tai-khoan-cent-tren-exness-huong-dan-chi-tiet-tung-buoc.1014154/)
 ---
 
 ## 5️⃣ Kết Luận

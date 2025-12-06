@@ -71,7 +71,7 @@ Exness supports **24/7 crypto trading**, a rare feature among brokers, giving it
 
 ### **MetaTrader 4 (MT4) and MetaTrader 5 (MT5)**
 
-Exness supports both **MT4 and MT5**, the world’s leading trading platforms, known for their **advanced charting tools, customizable indicators, and automated trading support (Expert Advisors)**.
+[Exness](https://voz.vn/t/cach-tao-tai-khoan-cent-tren-exness-huong-dan-chi-tiet-tung-buoc.1014154/) supports both **MT4 and MT5**, the world’s leading trading platforms, known for their **advanced charting tools, customizable indicators, and automated trading support (Expert Advisors)**.
 
 #### **MT4 Key Features**:
 - Lightweight platform, ideal for forex  
